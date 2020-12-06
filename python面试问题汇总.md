@@ -32,3 +32,10 @@ grep -o
 #### 3、rabbitmq和redis作为消息中间件有什么优缺点
 #### 4、magicbox前端了解吗  
 
+## 浪潮（运维平台开发）：
+#### 1、redis持久化
+#### 2、docker
+#### 3、django的机制
+#### 4、在django中，前端请求url进来的路径
+#### 5、登录什么时候断开
+token存储设置失效时间
